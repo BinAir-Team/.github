@@ -44,7 +44,7 @@ pengurangan nilai secara kolektif.
 | Output Deliverable | Website yang bisa di akses secara publik dan responsif sampai mobile | API yang bisa diakses secara publik |
 
 
-### Minimum Requirement for Android
+### Minimum Requirement & Submit Idea for Android
 
 | Objectives |  |
 | ------ | ------ |
