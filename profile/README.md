@@ -95,7 +95,7 @@ Thanks goes to these wonderful people
     <td align="center"><a href="https://github.com/zelviolga"><img src="https://avatars.githubusercontent.com/u/48192666?v=4" width="100px;" alt=""/><br /><sub><b>Zelvi Olga</b></sub></a><br /><p style="font-size:10px">Android Facilitator</p></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/hy-reza"><img src="https://avatars.githubusercontent.com/u/93983098?v=4" width="100px;" alt=""/><br /><sub><b>Handy Reza</b></sub></a><br /><p style="font-size:10px">Product Manager + <br/> Frontend Developer</p></td>
+    <td align="center"><a href="https://github.com/hy-reza"><img src="https://avatars.githubusercontent.com/u/93983098?v=4" width="100px;" alt=""/><br /><sub><b>Handy Reza</b></sub></a><br /><p style="font-size:10px">Product Manager & <br/> Frontend Developer</p></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/noviyana12"><img src="https://avatars.githubusercontent.com/u/54648155?v=4" width="100px;" alt=""/><br /><sub><b>Noviyana Ling</b></sub></a><br /><p style="font-size:10px">Frontend Team Leader</p></td>
