@@ -91,7 +91,7 @@ Thanks goes to these wonderful people
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/ahmadhafidh"><img src="https://avatars.githubusercontent.com/u/14936761?v=4" width="75px;" alt=""/><br /><sub><b>Ahmad Hafidh Ayatullah</b></sub></a><br /><p style="font-size:10px">Full Stack Facilitator</p></td>
+    <td align="center"><a href="https://github.com/ahmadhafidh"><img src="https://avatars.githubusercontent.com/u/14936761?v=4" width="100px;" alt=""/><br /><sub><b>Ahmad Hafidh Ayatullah</b></sub></a><br /><p style="font-size:10px">Full Stack Facilitator</p></td>
     <td align="center"><a href="https://github.com/zelviolga"><img src="https://avatars.githubusercontent.com/u/48192666?v=4" width="100px;" alt=""/><br /><sub><b>Zelvi Olga</b></sub></a><br /><p style="font-size:10px">Android Facilitator</p></td>
   </tr>
   <tr>
